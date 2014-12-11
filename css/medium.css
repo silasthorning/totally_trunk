@@ -1,0 +1,25 @@
+body{	
+}
+#wrapper{
+	width:100%;	
+}
+nav{
+	height:auto;	
+}
+nav ul li {
+	display:inline-block;
+}
+
+
+
+header{
+	height:250px;
+	display:table;
+}
+header img{
+	height:250px;
+	display:table;	
+}
+pre{
+	display:none;
+}

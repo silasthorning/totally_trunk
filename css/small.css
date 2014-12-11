@@ -1,0 +1,30 @@
+body{
+	background:none;	
+}
+#wrapper{
+	width:100%;	
+}
+header{
+	display:none;
+}
+
+nav{
+	height:auto;
+}
+nav ul li{
+  display:block;
+  border-bottom:1px solid black;
+  width:98%;
+}
+nav ul li a {
+	width:100%;
+	display:block;	
+}
+article{
+	width:100%;
+	box-sizing:border-box;
+	padding:0;
+}
+pre{
+	display:none;
+}
