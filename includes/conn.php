@@ -9,5 +9,4 @@ $conn=mysqli_connect($localhost,$databasebruger,$databasepassword,$databasenavn)
 
 mysqli_set_charset($conn, 'utf8');
 
-//SILAS
 ?>
